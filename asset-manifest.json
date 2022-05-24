@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alvortask/static/css/main.61bed83e.css",
+    "main.js": "/alvortask/static/js/main.f37c4cb0.js",
+    "index.html": "/alvortask/index.html",
+    "main.61bed83e.css.map": "/alvortask/static/css/main.61bed83e.css.map",
+    "main.f37c4cb0.js.map": "/alvortask/static/js/main.f37c4cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61bed83e.css",
+    "static/js/main.f37c4cb0.js"
+  ]
+}
